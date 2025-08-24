@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sat, 24 Aug 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/hamiwie/amalku-app/releases/download/v1.0.0/amalku-v1.0.0.zip.zip" version="1.0.0" />
+    </item>
+  </channel>
+</rss>
